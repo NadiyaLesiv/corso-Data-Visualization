@@ -5,14 +5,12 @@
 2. 343
 3. DHDHH
 ### HEADER 2
-•HDHCB
-•BSBBS
 
-![MyImage](IMG_1283.png)
+![AndamentoProvincia](image-pandas.png)
 
 
 #### HEADER 3
-HGFHJFJDK
->HFHVNDNDJ
+
+![PieGraph](image-pandas-pie.png)
 
 ```import pandas as pd```
